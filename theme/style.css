@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Amatic SC';
+    src: url('fonts/amatic.ttf');
+}
+
+body {
+    font-family: 'Amatic SC';
+    font-size: 25px;
+}
+
+h1 {
+    font-family: "Amatic SC";
+    font-weight: 400;
+    font-size: 40px;
+}
+
+a {
+    color: #6873D7;
+    text-decoration: none;
+}
+
+.red {
+    color: #FF2742;
+}
+
+.menu {
+    font-size: 25px;
+}
+
+.right {
+    text-align: right;
+}
+
+.underline {
+    margin: 2px;
+    border-bottom: 1px solid #B06664;
+}
+
+.body {
+    border: 1px solid #75A9E2;
+    margin: 5px;
+}
+
+.header {
+    font-size: 40px;
+}
+
+.total {
+    font-size: 25px;
+}
+
+table {
+    font-size: 25px;
+}
+
+input, button, select {
+    font-family: 'Amatic SC';
+    font-size: 25px;
+}
+
